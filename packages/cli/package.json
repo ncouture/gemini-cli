@@ -54,7 +54,7 @@
     "string-width": "^7.1.0",
     "strip-ansi": "^7.1.0",
     "strip-json-comments": "^3.1.1",
-    "tar": "^7.5.1",
+    "tar": "^7.5.2",
     "undici": "^7.10.0",
     "extract-zip": "^2.0.1",
     "update-notifier": "^7.3.1",
